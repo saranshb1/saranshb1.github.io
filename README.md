@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,pycharm,vscode,sas,tensorflow,r,mysql,github,gcp,anaconda" />
-    <img src="https://skillicons.dev/icons?i=windows,stackoverflow,pytorch,figma,latex" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,stackoverflow,pytorch,figma,latex,fedora,ubuntu" /><br>
 </div>
 
 		
